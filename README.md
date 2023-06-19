@@ -3,7 +3,7 @@
 ## Description
 Pacmen is a JavaScript project that allows you to create and control multiple Pacman images on a web page. The project provides a factory function to create Pacman objects, positions them on the screen, and allows them to bounce off the walls.
 
-## Installation
+## How to Run
 To use the Pacmen project, follow these steps:
 1. Clone the repository or download the project files.
 2. Make sure you have the Pacman image files (e.g., "PacMan1.png") in the same directory as the HTML file.
