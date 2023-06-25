@@ -1,4 +1,4 @@
-# PacMen Excercise
+# PacMen Exercise
 
 ## Description
 Pacmen is a JavaScript project that allows you to create and control multiple Pacman images on a web page. The project provides a factory function to create Pacman objects, positions them on the screen, and allows them to bounce off the walls.
